@@ -11,8 +11,8 @@ Covers the rail network between Port Talbot and Milford Haven/Fishguard. Include
 | Track Plan     | :heavy_check_mark: |
 | Signalling      | :heavy_check_mark:      |
 | Naming | :heavy_check_mark:      |
-| Speed Limits | :x: |
-| Distances | :x: |
+| Speed Limits | :heavy_check_mark: |
+| Distances | :heavy_check_mark: |
 | Timetable | :x: |
 | Documentation | :x: |
 
@@ -21,3 +21,4 @@ Covers the rail network between Port Talbot and Milford Haven/Fishguard. Include
 
 - [Map Meurisse](https://map.meurisse.org/)
 - [Raildar](https://raildar.co.uk/)
+- [Network Rail National Electronic Sectional Appendix](https://www.networkrail.co.uk/industry-and-commercial/information-for-operators/national-electronic-sectional-appendix/)
