@@ -1,0 +1,14 @@
+rly_file = "SouthWestWales.rly"
+ttb_files = []
+img_files = [ "SouthWestWales.bmp",]
+doc_files = [ "README.md",]
+release_date = "2022-12-04"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2022
+display_name = "South West Wales"
+name = "South West Wales"
+author = "Kristian Zarębski"
+contributors = []
